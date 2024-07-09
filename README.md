@@ -1,4 +1,4 @@
-# CodeAlpha_TaskAutomationwithPythonScripts
-Task Automation with Python Scripts project in association with Code Alpha
+# TaskAutomationwithPythonScripts
+Personal project related to Task Automation with Python Scripts
 <br>
 Author: Mayank Kumar
